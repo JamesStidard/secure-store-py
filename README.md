@@ -1,6 +1,11 @@
 # Secure Store
 Helper functions for cryptography in Python.
 
+## Install
+```bash
+pip install securestore
+```
+
 ## `securestore.hasher`
 Helper functions for hashing and comparing values for storing sensitive data like passwords and API tokens.
 Based on article from [CrackStation](https://crackstation.net/hashing-security.htm "CrackStation - Hashing Security").
