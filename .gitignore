@@ -1,2 +1,12 @@
 venv
+.env
+
 .idea
+
+*.pyc
+
+.cache/v/cache/lastfailed
+
+dist/securestore-0.1.tar.gz
+
+*.egg-info
