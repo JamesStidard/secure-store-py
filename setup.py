@@ -8,7 +8,7 @@ setup(
     author       = 'James Stidard',
     author_email = 'james@stidard.com',
     url          = 'https://github.com/JamesStidard/secure-store-py',
-    download_url = 'https://github.com/JamesStidard/secure-store-py/tarball/0.1',
+    download_url = 'https://github.com/JamesStidard/secure-store-py/tarball/0.1.1',
     keywords     = ['cryptography', 'secure', 'storage', 'password'],
     classifiers  = [],
 )
