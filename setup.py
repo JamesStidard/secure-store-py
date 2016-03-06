@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name         = 'securestore',
     packages     = ['securestore'],
-    version      = '0.1',
+    version      = '0.1.1',
     description  = 'Collections of helper crypto functions.',
     author       = 'James Stidard',
     author_email = 'james@stidard.com',
